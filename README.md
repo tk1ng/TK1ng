@@ -11,5 +11,7 @@ Fun fact: ...
 - I love ☕️ matcha green tea lattes and 🎸 playing guitar
 
 
+
 Connect with me on [twitter](https://www.twitter.com/iimkiing)
 
+<img src="octocat.png" height="200px"/>
