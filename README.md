@@ -13,4 +13,5 @@ Fun fact: ...
 
 
 Connect with me on [twitter](https://www.twitter.com/iimkiing)
+View my portfolio website [here](http://www.tarynking.me)
 
