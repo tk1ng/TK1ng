@@ -3,7 +3,7 @@
 I'm Taryn, a self-taught developer. 
 
 🔭 I’m currently working on ...
-- Improving my skills with JavaScript
+- Refining my JavaScript skills
 - Learning React.js and Node.js
 - Exploring APIs
 
