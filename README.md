@@ -5,9 +5,9 @@ I'm Taryn, a self-taught developer.
 🔭 I’m currently working on ...
 - Refining my JavaScript skills
 - Learning React.js and Node.js
-- Learning Python
+- Enhancing Python skills
 - Exploring APIs
-- 100 Days of Code challenge [follow my journey](https://github.com/TK1ng/100-days-of-code/blob/master/log.md)
+- Learning AWS Lambda
 
 Fun fact: ...
 - I love ☕️ matcha green tea lattes and 🎸 playing guitar
