@@ -10,7 +10,7 @@ I'm Taryn, a self-taught developer.
 - Learning AWS Lambda
 
 Fun fact: ...
-- I love ☕️ matcha green tea lattes and 🎸 playing guitar
+- I love ☕️ matcha green tea lattes and 🎸 [playing guitar](https://www.instagram.com/kingtheguitarist/)
 
 
 
