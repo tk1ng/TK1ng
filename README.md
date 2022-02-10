@@ -9,7 +9,7 @@ I'm Taryn, a self-taught developer.
 
 Fun facts: ...
 - I'm wildly curious about quantum physics and the mysteries of the universe 🌌 
-- I love 🎸 [playing guitar](https://www.instagram.com/kingtheguitarist/)
+- I love [playing guitar](https://www.instagram.com/kingtheguitarist/) 🎸 
 
 
 
