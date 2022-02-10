@@ -3,14 +3,13 @@
 I'm Taryn, a self-taught developer. 
 
 🔭 I’m currently working on ...
-- Refining my JavaScript skills
+- Exploring REST APIs and documenting them!
 - Learning React.js and Node.js
-- Enhancing Python skills
-- Exploring APIs
-- Learning AWS Lambda
+- Learning GraphQL
 
-Fun fact: ...
-- I love ☕️ matcha green tea lattes and 🎸 [playing guitar](https://www.instagram.com/kingtheguitarist/)
+Fun facts: ...
+- I'm wildly curious about quantum physics and the mysteries of the universe 🌌 
+- I love 🎸 [playing guitar](https://www.instagram.com/kingtheguitarist/)
 
 
 
