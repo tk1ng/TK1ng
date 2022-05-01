@@ -15,4 +15,4 @@ Fun facts: ...
 Connect with me on [twitter](https://www.twitter.com/iimkiing)<br>
 View my website [here](https://www.kingcodes.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tk1ng)](https://github.com/tk1ng/github-readme-stats)
+<!--- [![Taryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tk1ng)](https://github.com/tk1ng/github-readme-stats)--->
