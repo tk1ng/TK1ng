@@ -1,12 +1,12 @@
-### Hi there!👋🏾
+# Hi! 👋🏾
 
-I'm Taryn, a self-taught developer. 
+I'm a software engineer. 
 
 🔭 I’m currently working on ...
 - Exploring REST APIs and documenting them!
 - Learning React.js, Node.js, and Typescript
 
-Fun facts: ...
+Fun facts:
 - I'm wildly curious about quantum physics and the mysteries of the universe 🌌 
 - I love [playing guitar](https://www.instagram.com/kingtheguitarist/) 🎸 
 
