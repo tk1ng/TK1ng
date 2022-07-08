@@ -10,9 +10,7 @@ Fun facts:
 | I love [playing guitar](https://www.instagram.com/kingtheguitarist/) 🎸 
 </p> -->
 
-***
-
-Connect with me on [twitter](https://www.twitter.com/iimkiing) |
-View my website [here](https://www.kingcodes.dev)
+<!-- Connect with me on [twitter](https://www.twitter.com/iimkiing) |
+View my website [here](https://www.kingcodes.dev) -->
 
 <!--- [![Taryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tk1ng)](https://github.com/tk1ng/github-readme-stats)--->
