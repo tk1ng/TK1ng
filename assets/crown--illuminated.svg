@@ -1,7 +1,7 @@
 <svg width="1500" height="500" viewBox="0 0 300 300" fill="none"
     xmlns="http://www.w3.org/2000/svg">
-    
     <g id="CrownLogo--Gradient" clip-path="url(#clip0_2_2)">
+        <rect class="background" height="500" width="1500"/>
         <mask id="mask0_2_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-68" y="-60" width="421" height="420">
             <g id="triangles">
                 <path id="left-triangle" d="M90.8209 198.667L64.7897 105.199L195.819 198.667L90.8209 198.667Z" stroke="black" stroke-width="10"/>
@@ -24,8 +24,9 @@
         </clipPath>
         <style type="text/css">
             svg {
-	            --purple: #8E12C7;
-	            --orange: #EA9863;
+	            --base: #8E12C7;
+                --orange: #EA9863;
+	            --highlight: #EA9863;
                 --raisin: #1D1E2C;
             }
 
@@ -34,33 +35,25 @@
             }
 
             .stop1 {
-	            stop-color: var(--purple);
+	            stop-color: var(--base);
+                animation: iluminate 2s infinite alternate;
             }
 
             .stop2 {
+                --highlight: #8E12C7;
 	            stop-color: var(--orange);
+                animation: iluminate 3s infinite alternate;
             }
 
             .stop3 {
 	            stop-color: var(--orange);
 	            stop-opacity: 0.41;
             }
-            .stop1 {
-	            animation: iluminate-top 2s infinite alternate;
-            }
-            .stop2 {
-	            animation: iluminate-base 3s infinite alternate;
-            }
 
-            @keyframes iluminate-top {
-	            to {
-		            stop-color: var(--orange);
-	            }
-            }
+            @keyframes iluminate {
 
-            @keyframes iluminate-base {
 	            to {
-		            stop-color: var(--purple);
+		            stop-color: var(--highlight);
 	            }
             }
         </style>
