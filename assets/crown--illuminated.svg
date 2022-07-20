@@ -27,11 +27,6 @@
 	            --base: #8E12C7;
                 --orange: #EA9863;
 	            --highlight: #EA9863;
-                --raisin: #1D1E2C;
-            }
-
-            .background {
-                fill: var(--raisin);
             }
 
             .stop1 {
