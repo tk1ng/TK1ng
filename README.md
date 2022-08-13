@@ -6,8 +6,8 @@ I enjoy creating delightful experiences and clever solutions using code.
 </p>
 <p align="center">Fun facts:</p>
 <p align="center">
- I'm wildly curious about quantum physics and the mysteries of the universe 🌌 
-| I also love [playing guitar](https://www.instagram.com/kingtheguitarist/) 🎸 
+ I'm wildly curious about quantum physics and the mysteries of the universe 🌌 <br>
+ I also love [playing guitar](https://www.instagram.com/kingtheguitarist/) 🎸 
 </p>
 
 <!-- Connect with me on [twitter](https://www.twitter.com/iimkiing) |
