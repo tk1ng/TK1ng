@@ -4,11 +4,11 @@
 <p align="center">
 I enjoy creating delightful experiences and clever solutions using code.
 </p>
-<!-- <p align="center">
+<p align="center">
 Fun facts:
  I'm wildly curious about quantum physics and the mysteries of the universe 🌌 
-| I love [playing guitar](https://www.instagram.com/kingtheguitarist/) 🎸 
-</p> -->
+| I also love [playing guitar](https://www.instagram.com/kingtheguitarist/) 🎸 
+</p>
 
 <!-- Connect with me on [twitter](https://www.twitter.com/iimkiing) |
 View my website [here](https://www.kingcodes.dev) -->
