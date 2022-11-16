@@ -2,7 +2,7 @@
 <h1 align="center"> Hi! 👋🏾 </h1>
 <p align="center"> My name is Taryn King.</p>
 <p align="center">
-I enjoy creating delightful experiences and clever solutions using code.
+I enjoy creating frontend experiences and crafting code to provide solutions.
 </p>
 <p align="center">Fun facts:</p>
 <p align="center">
