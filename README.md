@@ -1,6 +1,6 @@
 ![Social icon for TKing](https://github.com/TK1ng/TK1ng/blob/master/assets/crown--illuminated.svg)
 <h1 align="center"> Hi! 👋🏾 </h1>
-<p align="center"> My name is Taryn King.</p>
+<h3 align="center"> My name is Taryn King.</h3>
 <p align="center">
 I enjoy creating frontend experiences and crafting code to provide solutions.
 </p>
