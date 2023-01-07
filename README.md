@@ -10,7 +10,7 @@ I enjoy crafting code that helps solve problems.
  I also love <a href="https://www.instagram.com/kingtheguitarist/" target="_blank">playing guitar 🎸 </a>
 </p>
 
-Connect with me!
-[LinkedIn](https://www.linkedin.com/in/taryn-king) | [twitter](https://www.twitter.com/iimkiing)
+<p align="center">Connect with me!</p>
+<a href="https://www.linkedin.com/in/taryn-king">LinkedIn</a> | <a href="https://www.twitter.com/iimkiing">Twitter</a>
 
 <!-- [![Taryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tk1ng)](https://github.com/tk1ng/github-readme-stats)- -->
