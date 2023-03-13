@@ -11,7 +11,7 @@ I enjoy crafting code that helps solve problems.
 </p>
 
 <p align="center">Connect with me!</p>
-<p align="center"><a href="https://www.linkedin.com/in/taryn-king">LinkedIn</a> | <a href="https://www.twitter.com/iimkiing">Twitter</a></p>
+<p align="center"><a href="https://tarynking.dev">My Site</a> | <a href="https://www.linkedin.com/in/taryn-king">LinkedIn</a> | <a href="https://www.twitter.com/iimkiing">Twitter</a></p>
 
 <!-- [![Taryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tk1ng)](https://github.com/tk1ng/github-readme-stats)- -->
 <hr>
