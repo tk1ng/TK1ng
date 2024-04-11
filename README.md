@@ -12,6 +12,3 @@ I'm a  passionate **Software Engineer** with a knack for frontend development, b
 ## My Skills 🧠
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nodejs,expressjs,mongo,postgresql,aws,jest,figma&theme=dark)](https://skillicons.dev)
-
-## Get in Touch 📬
-**[Personal Website](https://ww.tarynking.dev)** | **[LinkedIn](https://www.linkedin.com/in/tk1ng)** | **[Twitter](https://www.twitter.com/iimkiing)**
