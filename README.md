@@ -4,9 +4,9 @@
 
 I'm a  passionate **Software Engineer** with a knack for frontend development, but I also enjoy working across the stack.  Some technologies I enjoy working with are **ReactJS, NodeJs, MongoDB,  SASS/SCSS** and **REST APIs**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-[![Static Badge](https://img.shields.io/badge/tarynking.dev-website?style=flat&labelColor=262e33&color=db976f&link=https%3A%2F%2Fwww.tarynking.dev)](https://www.tarynking.dev){:target="_blank"}
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/iimkiing){:target="_blank"}
-[![Linkedin: tarynking](https://img.shields.io/badge/-tarynking-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taryn-king/)](https://www.linkedin.com/in/taryn-king/){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/tarynking.dev-website?style=flat&labelColor=262e33&color=db976f&link=https%3A%2F%2Fwww.tarynking.dev)](https://www.tarynking.dev)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/iimkiing)
+[![Linkedin: tarynking](https://img.shields.io/badge/-tarynking-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taryn-king/)](https://www.linkedin.com/in/taryn-king/)
 
 
 ## My Skills 🧠
