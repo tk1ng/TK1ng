@@ -1,4 +1,4 @@
-# Hi, I'm Taryn King! 👋🏾
+# Hi, I'm Taryn 👋🏾
 
 ![Crown Banner Image](https://github.com/TK1ng/TK1ng/blob/master/assets/crown--illuminated.svg)
 
