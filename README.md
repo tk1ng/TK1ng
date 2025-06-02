@@ -2,7 +2,7 @@
 
 ![Crown Banner Image](https://github.com/TK1ng/TK1ng/blob/master/assets/crown--illuminated.svg)
 
-I'm a  passionate **Software Engineer** with a knack for frontend development, but I also enjoy working across the stack.  Some technologies I enjoy working with are **ReactJS, NodeJs, MongoDB,  SASS/SCSS** and **REST APIs**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a  passionate **Software Engineer** with a knack for frontend development, but I also enjoy working across the stack.  Some technologies I enjoy working with are **ReactJS, NextJS, NodeJs, PostgreSQL,  SASS/SCSS** and **REST APIs**. I love tackling complex problems, learning new skills, supportign adn collaborating with diverse teams to create innovative solutions.
 
 [![Static Badge](https://img.shields.io/badge/tarynking.dev-website?style=flat&labelColor=262e33&color=db976f&link=https%3A%2F%2Fwww.tarynking.dev)](https://www.tarynking.dev)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/iimkiing)
